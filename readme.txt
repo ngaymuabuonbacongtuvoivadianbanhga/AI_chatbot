@@ -143,7 +143,6 @@ git push -f origin main (Gửi branch main mới này lên GitHub và GHI ĐÈ l
 ---------------------------------------------------------------
 👨‍💻 TÁC GIẢ
 ---------------------------------------------------------------
-Phạm Ngọc Hưng — MSSV: 20235342
 Trường Công nghệ Thông tin & Truyền thông
 Đại học Bách khoa Hà Nội (HUST)
 Môn học: IT3160 - Nhập môn Trí tuệ Nhân tạo
